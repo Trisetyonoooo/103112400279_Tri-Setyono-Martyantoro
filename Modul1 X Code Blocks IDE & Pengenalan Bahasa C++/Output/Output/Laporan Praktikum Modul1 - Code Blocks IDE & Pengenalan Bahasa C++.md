@@ -390,8 +390,11 @@ Program di atas dibuat untuk menerima masukan berupa sebuah bilangan bulat dari 
 ### Referensi
 ---
 [1] Putra, C. K., dkk. (2020). Pengembangan Media Pembelajaran Mobile Learning Pemrograman C++ untuk SMK. ePrints Universitas Muhammadiyah Surakarta. https://eprints.ums.ac.id/115405/10/Naskah%20Publikasi_Canygia%20Kalindra%20Putra.pdf
+
 [2] Dewi, L. J. E. (2010). Media Pembelajaran Bahasa Pemrograman C++. Jurnal Pendidikan Teknologi dan Kejuruan. https://ejournal.undiksha.ac.id/index.php/JPTK/article/download/31/25/94
+
 [3] Kristiyanto, A., dkk. (2022). Pelatihan Pemrograman C++ melalui Tinkercad Guna Meningkatkan Kemampuan Computational Thinking Siswa SMK. Jurnal Pengabdian Kepada Masyarakat. https://ejournal.sisfokomtek.org/index.php/jpkm/article/view/3362
+
 [4] Ritonga, A., & Yahfizham. (2023). Studi Literatur Perbandingan Bahasa Pemrograman C++ dan Python pada Algoritma Pemrograman. Jurnal Informatika dan Sistem Informasi. https://www.researchgate.net/publication/375802955_Studi_Literatur_Perbandingan_Bahasa_Pemrograman_C_dan_Bahasa_Pemrograman_Python_pada_Algoritma_Pemrograman
 
 
