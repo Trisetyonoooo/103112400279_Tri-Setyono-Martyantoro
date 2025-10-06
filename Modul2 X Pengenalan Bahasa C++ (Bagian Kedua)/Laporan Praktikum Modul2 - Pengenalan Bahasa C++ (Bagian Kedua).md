@@ -333,7 +333,9 @@ Di dalam prosedur kuadrat, nilai parameter a dikalikan dengan dirinya sendiri (a
 ### Referensi
 ---
 [1] Wijaya, R., & Sari, T. (2023). _Implementasi Konsep Array dan Pointer dalam Pengelolaan Data Menggunakan Bahasa C++._ Jurnal Teknologi dan Sistem Informasi, 11(1), 65–73. https://jurnal.stmikroyal.ac.id/index.php/jtsi/article/view/4108
+
 [2] Nugroho, D. (2022). _Analisis Pemanfaatan Fungsi dan Prosedur dalam Bahasa Pemrograman C++ untuk Efisiensi Program._ Jurnal Informatika dan Aplikasi Komputer, 7(2), 112–120. https://ejournal.bsi.ac.id/ejurnal/index.php/jika/article/view/2167
+
 [3] Putra, A. R., & Santoso, L. (2021). _Perbandingan Mekanisme Call by Value dan Call by Reference dalam Bahasa Pemrograman C++._ Jurnal Ilmiah Teknologi dan Rekayasa, 9(3), 189–196. https://journal.uny.ac.id/index.php/jitk/article/view/2782
 
 
