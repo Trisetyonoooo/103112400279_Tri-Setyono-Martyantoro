@@ -611,7 +611,9 @@ Program diatas dibuat untuk mengelola data kendaraan menggunakan struktur **Doub
 ### Referensi
 ---
 [1] Agung Wijoyo, Lalu Akbar Prayudi, Muhamad Fiqih, Rendi Dwi Santoso, Ricky Tri Setiawan Putra, Teguh Arifin, & Ahmad Farhan. “Penggunaan Algoritma Doubly Linked List Untuk Insertion Dan Deletion.” _JRIIN : Jurnal Riset Informatika dan Inovasi_, 1(12), 1329–1331. 2024.
+
 [2] Analisis Struktur Data Linked List Dalam Pengolahan Data Mahasiswa. _JSIT Journal_, 2024.
+
 [3] Agung Wijoyo, Amalia Azzahra, Dhaifina Nabila, Fijriani Silviana, Lusiyanti. “Perbandingan Struktur Linked List dan Array Dalam Manajemen Memori.” _JRIIN : Jurnal Riset Informatika dan Inovasi_, 1(12), 2024.
 
 
