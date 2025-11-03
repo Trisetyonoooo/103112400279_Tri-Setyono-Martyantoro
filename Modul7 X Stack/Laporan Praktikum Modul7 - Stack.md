@@ -573,7 +573,9 @@ Pada nomor tiga, program dikembangkan lagi dengan menambahkan prosedur getInputS
 ### Referensi
 ---
 [1] Modul Praktikum 4 – Stack, Universitas Negeri Malang. Modul Struktur Data (PDF) https://elektro.um.ac.id/wp-content/uploads/2016/04/Struktur-Data-Modul-Praktikum-4-Stack.pdf
+
 [2] Struktur Data Stack: Pengertian, Karakteristik, dan Kegunaannya, Trivusi. https://trivusi.web.id/2022/07/struktur-data-stack.html
+
 [3] “Penggunaan Struktur Data Stack dalam Pemrograman C++ dengan Pendekatan Array dan Linked List”, _Jurnal JUTECH_. [https://jurnal.stkippersada.ac.id/jurnal/index.php/jutech/article/download/4263/pdf]
 
 
